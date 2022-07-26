@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [natourtech.com](natourtech.com)
 
-- 📝 I regularly write articles on [natourtech/blog.com](natourtech/blog.com)
+- 📝 I regularly write articles on [https://medium.com/@mohamednatour](https://medium.com/@mohamednatour)
 
 - 💬 Ask me about **java, pyhton - PyGame, raspberry pi**
 
