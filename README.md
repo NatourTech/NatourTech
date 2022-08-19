@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NatourTech</h1>
-<h3 align="center">I a computer science major, that is passionate about learning and teaching programming!</h3>
+<h3 align="center">I a computer science major, who is passionate about learning and teaching programming!</h3>
 
 - 🔭 I’m currently working on **something cool 😉**
 
