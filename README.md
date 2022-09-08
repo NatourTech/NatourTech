@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mohamednatour](https://medium.com/@mohamednatour)
 
-- 💬 Ask me about **java, pyhton - PyGame, raspberry pi**
+- 💬 Ask me about **java, pyhton, JS - , raspberry pi**
 
 - 📫 How to reach me **natourmo@post.bgu.ac.il**
 
