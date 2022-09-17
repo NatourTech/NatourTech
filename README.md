@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **java, pyhton, JS - , raspberry pi**
 
-- 📫 How to reach me **natourmo@post.bgu.ac.il**
+- 📫 How to reach me, Email **natourmo@post.bgu.ac.il**
 
 - 📄 Know about my experiences [natourtech/resume.com](natourtech/resume.com)
 
