@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 👨‍💻 All of my projects are available at [natourtech.com](natourtech.com)
+- 👨‍💻 All of my projects are available at [www.natourtech.com](natourtech.com)
 
 - 📝 I regularly write articles on [https://medium.com/@mohamednatour]
 
