@@ -11,7 +11,7 @@
 
 - 📫 How to reach me, Email **natourmo@post.bgu.ac.il**
 
-- 📄 Know about my experiences [natourtech/resume.com](natourtech/resume.com)
+- 📄 Know about my experiences [natourtech/resume.com](https://drive.google.com/file/d/1dYhZlR-V6SJEpKlYZvS6liPqyi6LXYJq/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
